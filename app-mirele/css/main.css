@@ -1,0 +1,128 @@
+body {
+    background-color: #616161;
+}
+
+[data-footer] {
+    background-color: #616161
+}
+
+[data-banner-navbar] {
+    height: 200px;
+}
+
+[data-div-banners]>div>img {
+    height: 500px;
+}
+
+.card {
+    background-color: #616161;
+    color: white;
+    margin-top: 50px;
+    border: none
+}
+
+.head1 {
+    font-weight: 900;
+    font-size: 30px
+}
+
+.bdr {
+    border-bottom: 1.5px solid #52b5ef;
+    width: 65px;
+    margin-right: auto;
+    margin-left: auto
+}
+
+.card-footer {
+    justify-content: space-between;
+    border: none;
+    background: none;
+    border-bottom: 0.5px solid #9E9E9E
+}
+
+.footer-right>i {
+    margin-left: 15px
+}
+
+.fa-hand-holding-usd {
+    color: #52b5ef
+}
+
+.fa-handshake {
+    color: #52b5ef
+}
+
+.card-title {
+    margin-bottom: .75rem;
+    font-weight: 900;
+    font-size: 15px;
+    margin-top: 1.75rem
+}
+
+.learn-more {
+    color: #52b5ef
+}
+
+.fa-angle-right {
+    margin-left: 10px
+}
+
+.fa-3x {
+    color: #52b5ef
+}
+
+.card-content {
+    padding-right: 40px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px
+}
+
+.card-content>p {
+    color: #9E9E9E
+}
+
+.heading {
+    position: relative;
+    top: 75px
+}
+
+.follow-text {
+    color: #9E9E9E
+}
+
+[data-content-fale-conosco] {
+    margin: auto;
+    border-radius: 5px;
+}
+
+[data-form-login] {
+    width: 500px;
+    margin: 10px auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 1px 2px 3px 4px #e4dada;
+}
+
+[data-div-portfolio] {
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+[data-div-portfolio]>div {
+    border-radius: 3px;
+}
+
+[data-div-portfolio]>div:nth-child(1) {
+    width: 200px;
+    background-color: #f7f4f4;
+    padding: 10px;
+}
+
+[data-img-portfolio] {
+    border-radius: 180px;
+}
